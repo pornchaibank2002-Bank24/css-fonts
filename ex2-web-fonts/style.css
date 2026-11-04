@@ -1,1 +1,20 @@
-/* Start coding here */
+@font-face {
+    font-family: 'iannnnnCPU'; 
+    src: url('./fonts/2005_iannnnnCPU.ttf') format('truetype');
+}
+
+body {
+    font-family: 'iannnnnCPU', sans-serif;
+    margin: 20px;
+    background-color: #f9f9f9;
+    color: #333;
+}
+  
+h1 {
+    font-size: 36px;
+}
+  
+p {
+    font-size: 30px;
+    line-height: 1;
+}
